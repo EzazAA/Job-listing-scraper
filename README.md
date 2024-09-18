@@ -1,7 +1,5 @@
 
-# Job Listing Scraper
-
-![Job Listing Scraper](https://img.shields.io/badge/Project-Jobs%20Scraper-blue)
+# *Job Listing Scraper*
 
 ## Overview
 
