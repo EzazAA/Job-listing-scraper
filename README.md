@@ -149,4 +149,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for checking out the Job Listing Scraper! If you have any questions or feedback, feel free to open an issue or contribute to the project.
 
 ---
-This project is under [MIT](https://ezazaa.github.io/job-listing-scarper/license) License
+
